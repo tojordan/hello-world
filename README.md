@@ -1,4 +1,4 @@
-# hello-world
+## hello-world
 A sample repository.
 
 Guidelines for commits from github.com\git-for-windows\git\wiki\Good-commits:
